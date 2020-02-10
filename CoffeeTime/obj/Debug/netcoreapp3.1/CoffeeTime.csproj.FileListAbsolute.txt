@@ -1,0 +1,11 @@
+/Users/kamariross/CoffeeTime/obj/Debug/netcoreapp3.1/CoffeeTime.csprojAssemblyReference.cache
+/Users/kamariross/CoffeeTime/obj/Debug/netcoreapp3.1/CoffeeTime.AssemblyInfoInputs.cache
+/Users/kamariross/CoffeeTime/obj/Debug/netcoreapp3.1/CoffeeTime.AssemblyInfo.cs
+/Users/kamariross/CoffeeTime/bin/Debug/netcoreapp3.1/CoffeeTime
+/Users/kamariross/CoffeeTime/bin/Debug/netcoreapp3.1/CoffeeTime.deps.json
+/Users/kamariross/CoffeeTime/bin/Debug/netcoreapp3.1/CoffeeTime.runtimeconfig.json
+/Users/kamariross/CoffeeTime/bin/Debug/netcoreapp3.1/CoffeeTime.runtimeconfig.dev.json
+/Users/kamariross/CoffeeTime/bin/Debug/netcoreapp3.1/CoffeeTime.dll
+/Users/kamariross/CoffeeTime/bin/Debug/netcoreapp3.1/CoffeeTime.pdb
+/Users/kamariross/CoffeeTime/obj/Debug/netcoreapp3.1/CoffeeTime.dll
+/Users/kamariross/CoffeeTime/obj/Debug/netcoreapp3.1/CoffeeTime.pdb
